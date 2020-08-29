@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![juhilsomaiya](https://circleci.com/gh/juhilsomaiya/aws-operationalize-a-machine-learning-microservice-api.svg?style=svg)](https://app.circleci.com/pipelines/github/juhilsomaiya/aws-operationalize-a-machine-learning-microservice-api)
 
 ## Project Overview
 
